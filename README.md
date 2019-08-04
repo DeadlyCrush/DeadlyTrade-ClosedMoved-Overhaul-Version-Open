@@ -49,19 +49,25 @@ B. Bug Fix, Reflect on User's Opinion&Request by priority.
 [ CONTACT ]
 
 Discord - https://discord.gg/ryjUA7r
+
 Github - https://github.com/DeadlyCrush
 
 Youtube - https://www.youtube.com/channel/UCRG8...
+
 Twitch - https://www.twitch.tv/deadlycrush
 
 Reddit - u/DeadlyCrush
+
 https://www.reddit.com/r/pathofexile/comments/ckman2/introduce_small_addon_for_helping_trade_whisper/
+
 Facebook - https://www.facebook.com/Deadly-Trade...
 
 Path of Exile 한국 커뮤니티 : https://cafe.naver.com/poekorea
+
 KAKAO Talk - https://open.kakao.com/o/gylOSztb 패스오브엑자일 DeadlyCrush
 
 Homepage - http://deadlycrush.online/ ( Under Construction )
+
 Twitter - twitter @deadly_crush
 
 
