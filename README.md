@@ -9,6 +9,10 @@ https://www.reddit.com/r/pathofexile/comments/ckman2/introduce_small_addon_for_h
 Deadly Trade Beta 1.0 거래 도움 및 유용한 기능들 ( 해상도지원, 기능추가, 버그수정 )
 https://cafe.naver.com/poekorea/293392
 
+⁛ Latest Release v0.1.0.1Beta
+https://github.com/DeadlyCrush/DeadlyTrade/releases/tag/v0.1.0.1Beta
+
+
 ⁛ a few screenshot
 
 ![DeadlyTradeBeta0101Ver (18)](https://user-images.githubusercontent.com/11026168/62420508-6d03e200-b6ce-11e9-981c-3ac98b092a55.JPG)
