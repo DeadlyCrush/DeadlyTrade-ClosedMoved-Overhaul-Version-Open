@@ -1,3 +1,29 @@
+#DeadlyTrade
+[ DeadlyTrade PreBeta 버전이 업데이트 안내. ] :: 2020.01.10 Pre-Beta Version.
+
+​
+
+자세한 내용은 https://discord.gg/ryjUA7r 의 Download 채널을 참고 바랍니다!
+
+​
+
+Still sane exile? Finally we launch DeadlyTrade PreBeta Ver.
+
+you can check download channel now.
+
+​
+
+프리 베타 버전은 알려진 버그들이 있습니다만, 2일 이내에 수정될 것입니다.
+
+This beta pre release version has known bugs. But it will be fix within 2days.
+
+​
+
+​
+
+#패스오브엘자일, #PathOfExile, #애드온, #Addon, #매크로, #Macro, #트레이드, #Trade, #데들리트레이드, #DeadlyTrade
+
+
 # DeadlyTrade
 DeadlyTrade with ExileDirection for POE
 
