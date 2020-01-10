@@ -1,7 +1,8 @@
 #DeadlyTrade
 [ DeadlyTrade PreBeta 버전이 업데이트 안내. ] :: 2020.01.10 Pre-Beta Version.
 
-![DeadlyTrade_MainFunctions](https://user-images.githubusercontent.com/11026168/72094677-42dbdd80-335a-11ea-8ee6-4319f842091c.png)
+![DeadlyTrade_Maifunction_Explanation](https://user-images.githubusercontent.com/11026168/72128670-0094b980-33b7-11ea-9c95-1c8e7edbf23c.png)
+
 ​
 
 자세한 내용은 https://discord.gg/ryjUA7r 의 Download 채널을 참고 바랍니다!
