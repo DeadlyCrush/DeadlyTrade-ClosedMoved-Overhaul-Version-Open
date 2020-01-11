@@ -1,5 +1,23 @@
 #DeadlyTrade
-[ DeadlyTrade PreBeta 버전이 업데이트 안내. ] :: 2020.01.10 Pre-Beta Version.
+* DeadlyTrade 1.3.9.1.Pre-Beta HotFix 2020.01.11
+
+This Notice is about a critical issue HotFix.
+You only need to overwrite the new exe to where you installed.
+
+[ HotFix 2020.01.11 ] *2010? :)
+
+1. Fixed addon abnormally crash with an BackgroundWorker Thread error issue.
+2. Fixed the addon abnormally crash with an BackgroundWorker Thread while using flask timer or skill timer (BackgroundWorker).
+3. Fixed Hotkey setting error.
+4. Fixed that personal trade message in trade notification panel is not saved properly.
+5. Fixed the double-click issue in main window moving bar (red color bar).
+6. Fixed channel scanner's abnormall operation.
+
+※
+Other bug fixing is work in progress. Will be announce with update version ASAP
+
+
+[ DeadlyTrade PreBeta 버전 업데이트 안내. ] :: 2020.01.10 Pre-Beta Version.
 
 ![DeadlyTrade_Maifunction_Explanation](https://user-images.githubusercontent.com/11026168/72128670-0094b980-33b7-11ea-9c95-1c8e7edbf23c.png)
 
