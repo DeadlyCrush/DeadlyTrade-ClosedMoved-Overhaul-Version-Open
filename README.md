@@ -47,6 +47,10 @@ Download : https://github.com/DeadlyCrush/DeadlyTrade/releases/download/1.3.9.1/
 
 
 
+
+
+
+
 * DeadlyTrade 1.3.9.1.Pre-Beta HotFix 2020.01.11
 
 This Notice is about a critical issue HotFix.
