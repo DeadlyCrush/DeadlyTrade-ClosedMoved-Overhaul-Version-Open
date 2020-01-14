@@ -5,26 +5,46 @@
 Download : https://github.com/DeadlyCrush/DeadlyTrade/releases/download/1.3.9.1/DeadlyTrade_1.3.9.1.zip
 
 ○ Fixed BackgroundWorker Thread error in unspecified situations.
+
 ○ Resources is significantly lowers and improves performance.
+
 ○ Fixed hotkey setting error.
+
 ○ Fixed the Notification window location and position error.
+
 ○ Notification volume down.
+
 ○ 'Thank you' button in the notification panel click do,
+
     1) If checked auto-keck, send an audit message and close the panel after 'thank you' message
+    
     2) If not checked, send a 'thank you message' and close the panel
+    
 ○ Added oil, watchstone, and beast to ninja price function.
+
 ○ Improved Ninja Price function speed.
 
+
 ○ 불특정한 상황에서 발생하는 BackgroundWorker Thread 오류 수정.
+
 ○ 리소스점유율을 현저히 낮추고 성능을 향상시킴.
+
 ○ 단축키 설정 오류 수정.
+
 ○ 알림창 위치 오류 수정
+
 ○ 알림창 볼륨 수정.
+
 ○ 알림창에서 초록색체크표시=완료=감사합니다. 클릭시,
+
    1) 설정에 자동 추방.탈퇴가 체크되어 있으면 감사메시지 보내고 자동 추방.탈퇴 후 창 닫기
+   
    2) 아니면 감사 메시지 보내고 창 닫기
+   
 ○ 닌자 시세에 성유, 와치스톤 그리고 야수관 추가
+
 ○ Ninja Price 시세 확인 속도를 더욱 개선
+
 
 
 * DeadlyTrade 1.3.9.1.Pre-Beta HotFix 2020.01.11
