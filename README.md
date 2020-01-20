@@ -1,48 +1,15 @@
 #DeadlyTrade
+
 [ DeadlyTrade 데들리트레이드 ][ 1.3.9.3 Released. ]
 Fixed Bug & Added New Features. : Ninja Function Search by Name, Atlas Region Map Search and etc.
 Download : https://github.com/DeadlyCrush/DeadlyTrade/releases/download/1.3.9.3/DeadlyTrade_1.3.9.3.zip
-
-#패스오브엘자일, #PathOfExile, #애드온, #Addon, #매크로, #Macro, #트레이드, #Trade, #데들리트레이드, #DeadlyTrade
-
-Join DeadlyTrade Discord : https://discord.gg/ryjUA7r
-
-[ DeadlyCrush :: Contact to me ]
-
-Private >
-○ BLOG - https://blog.naver.com/eocsdev2
-○ Twitter - https://twitter.com/crush_deadly
-○ Facebook - https://www.facebook.com/deadlycrush.kor
-
-Media >
-○ Twitch - https://www.twitch.tv/deadlycrush
-○ Youtube - https://www.youtube.com/c/DeadlyCrush
-
-POE Community >
-○ INVEN - http://poe.inven.co.kr/ : DeadlyAngel 
-○ NAVER - https://cafe.naver.com/poekorea : DeadlyCrush
-○ Reddit - https://www.reddit.com/user/DeadlyCrush
-
-DeadlyTrade >
-○ Discord - https://discord.gg/ryjUA7r :: DeadlyCrush#7202
-○ KAKAO Open Talk - https://open.kakao.com/o/gylOSztb
-
-Funny Project >
-○ GitHub - https://github.com/DeadlyCrush
-○ Azure - https://dev.azure.com/DeadlyCrush/
-
-[ DeadlyTrade 1.3.9.2 Version. Released ]
-Support Auto Update & Fixed Bug & Added New Features. Oils, Chrmatic Calc. etc.
-Download : https://github.com/DeadlyCrush/DeadlyTrade/releases/download/1.3.9.2/DeadlyTrade_1.3.9.2.zip
 
 [ DeadlyTrade 1.3.9.1 Version. ]
 
 Download : https://github.com/DeadlyCrush/DeadlyTrade/releases/download/1.3.9.1/DeadlyTrade_1.3.9.1.zip
 
 ○ Fixed BackgroundWorker Thread error in unspecified situations.
-
 ○ Resources is significantly lowers and improves performance.
-
 ○ Fixed hotkey setting error.
 ○ Fixed the Notification window location and position error.
 ○ Notification volume down.
@@ -63,12 +30,12 @@ Download : https://github.com/DeadlyCrush/DeadlyTrade/releases/download/1.3.9.1/
 ○ 닌자 시세에 성유, 와치스톤 그리고 야수관 추가
 ○ Ninja Price 시세 확인 속도를 더욱 개선
 
-* DeadlyTrade 1.3.9.1.Pre-Beta HotFix 2020.01.11
+[ DeadlyTrade 1.3.9.1.Pre-Beta HotFix 2020.01.11 ]
 
 This Notice is about a critical issue HotFix.
 You only need to overwrite the new exe to where you installed.
 
-[ HotFix 2020.01.11 ] *2010? :)
+[ HotFix 2020.01.11 ]
 
 1. Fixed addon abnormally crash with an BackgroundWorker Thread error issue.
 2. Fixed the addon abnormally crash with an BackgroundWorker Thread while using flask timer or skill timer (BackgroundWorker).
@@ -92,12 +59,7 @@ you can check download channel now.
 프리 베타 버전은 알려진 버그들이 있습니다만, 2일 이내에 수정될 것입니다.
 This beta pre release version has known bugs. But it will be fix within 2days.
 
-#패스오브엘자일, #PathOfExile, #애드온, #Addon, #매크로, #Macro, #트레이드, #Trade, #데들리트레이드, #DeadlyTrade
-
-# DeadlyTrade
-DeadlyTrade with ExileDirection for POE
-
-{ 2019.09.11 DeadlyTrade 1.0.3.8 }
+[ 2019.09.11 DeadlyTrade 1.0.3.8 ]
 
 안녕하세요. 데들리크러쉬 입니다.
 3.8 역병 리그는 잘 진행하고 계신지요? 스탠에서 하고 계신분들도 강해지고 계신지요?
@@ -107,14 +69,6 @@ DeadlyTrade with ExileDirection for POE
 
 제보.지적.건의.의견 주신 내용들과 제가 파악하고 계획했던 것들 중에서
 우선순위가 높다고 판단한 것들을 위주로 업데이트하였습니다.
-
-
-[ 다운로드 및 설치 ]
-
-공식 카페 게시물 (Thread KOR Community) : https://cafe.naver.com/poekorea/373080
-GitHub : https://github.com/DeadlyCrush/DeadlyTrade/releases/download/0.1.3.8/DeadlyTrade_2019_0911.zip
-설치 : 아무곳에나 압축을 풀고 32비트 64비트 관계없이 (한글 경로는 가급적 제외) DeadlyTrade.exe를 실행
-(특정 PC에서 안될 경우 64비트 : DeadlyTrade_x64.exe)
 
 ⁛ Reddit Written in English
 Introduce small Addon for Helping Trade Whisper (Especially people'Exile' who struggling by Korean Language)
@@ -132,13 +86,16 @@ https://github.com/DeadlyCrush/DeadlyTrade/releases/tag/v0.1.0.1Beta )
 ⁛ Latest Release v0.1.0.1Beta
 https://github.com/DeadlyCrush/DeadlyTrade/releases/tag/v0.1.0.1Beta
 
-⁛ 08.04 >
+[ ⁛ 08.04  ]
 Work in progress...
 A. Separating Addon's UI Text English and Korean ( Current version is Mixed UI )
 B. Bug Fix, Reflect on User's Opinion&Request by priority.
 
 
+
 Join DeadlyTrade Discord : https://discord.gg/ryjUA7r
+
+
 
 [ DeadlyCrush :: Contact to me ]
 
