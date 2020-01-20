@@ -1,6 +1,4 @@
-#DeadlyTrade
-
-[ DeadlyTrade 데들리트레이드 ]
+#DeadlyTrade : Path Of Exile Addon
 
 [ DeadlyTrade 1.3.9.3 Released. ]
 
