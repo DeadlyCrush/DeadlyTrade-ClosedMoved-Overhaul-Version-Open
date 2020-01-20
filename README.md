@@ -1,10 +1,12 @@
 #DeadlyTrade
 
-[ DeadlyTrade 데들리트레이드 ][ 1.3.9.3 Released. ]
+[ DeadlyTrade 데들리트레이드 ]
+
+[ DeadlyTrade 1.3.9.3 Released. ]
 Fixed Bug & Added New Features. : Ninja Function Search by Name, Atlas Region Map Search and etc.
 Download : https://github.com/DeadlyCrush/DeadlyTrade/releases/download/1.3.9.3/DeadlyTrade_1.3.9.3.zip
 
-[ DeadlyTrade 1.3.9.1 Version. ]
+[ DeadlyTrade 1.3.9.1 Released. ]
 
 Download : https://github.com/DeadlyCrush/DeadlyTrade/releases/download/1.3.9.1/DeadlyTrade_1.3.9.1.zip
 
