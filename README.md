@@ -75,17 +75,8 @@ This beta pre release version has known bugs. But it will be fix within 2days.
 Introduce small Addon for Helping Trade Whisper (Especially people'Exile' who struggling by Korean Language)
 https://www.reddit.com/r/pathofexile/comments/ckman2/introduce_small_addon_for_helping_trade_whisper/
 
-⁛ 한국 커뮤니티 상세 정보를 포함한 자료글
-공식 카페 게시물 (Thread KOR Community) : https://cafe.naver.com/poekorea/373080
-
-( OLD : Deadly Trade Beta 1.0 거래 도움 및 유용한 기능들 ( 해상도지원, 기능추가, 버그수정 )
-https://cafe.naver.com/poekorea/293392 
-
-⁛ Latest Release v0.1.0.1Beta
+⁛ Release v0.1.0.1Beta
 https://github.com/DeadlyCrush/DeadlyTrade/releases/tag/v0.1.0.1Beta )
-
-⁛ Latest Release v0.1.0.1Beta
-https://github.com/DeadlyCrush/DeadlyTrade/releases/tag/v0.1.0.1Beta
 
 [ ⁛ 08.04  ]
 Work in progress...
@@ -93,6 +84,7 @@ A. Separating Addon's UI Text English and Korean ( Current version is Mixed UI )
 B. Bug Fix, Reflect on User's Opinion&Request by priority.
 
 
+Download Lasted Release : https://github.com/DeadlyCrush/DeadlyTrade/releases/tag/1.3.9.3
 
 Join DeadlyTrade Discord : https://discord.gg/ryjUA7r
 
