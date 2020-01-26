@@ -1,2 +1,2 @@
 # DeadlyTrade
-DeadlyTrade with ExileDirection for POE
+Path Of Exile Addon by DeadlyCrush : the Goal is All-In-One Addon
