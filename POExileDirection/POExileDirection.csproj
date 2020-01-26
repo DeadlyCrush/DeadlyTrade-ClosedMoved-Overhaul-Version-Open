@@ -39,6 +39,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -181,6 +182,12 @@
     <Compile Include="NinjaForm.Designer.cs">
       <DependentUpon>NinjaForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="NotificationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotificationForm.Designer.cs">
+      <DependentUpon>NotificationForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="OverlayJson.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -195,6 +202,12 @@
     </Compile>
     <Compile Include="SettingsForm.Designer.cs">
       <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StashGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StashGrid.Designer.cs">
+      <DependentUpon>StashGrid.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="ControlForm.resx">
       <DependentUpon>ControlForm.cs</DependentUpon>
@@ -217,6 +230,9 @@
     <EmbeddedResource Include="NinjaForm.resx">
       <DependentUpon>NinjaForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="NotificationForm.resx">
+      <DependentUpon>NotificationForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -232,6 +248,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="SettingsForm.resx">
       <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StashGrid.resx">
+      <DependentUpon>StashGrid.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.manifest" />
     <None Include="packages.config" />
@@ -274,6 +293,71 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="POExileDirection.ico" />
+    <Content Include="res\Currency\curr_alch.png" />
+    <Content Include="res\Currency\curr_alt.png" />
+    <Content Include="res\Currency\curr_ancient.png" />
+    <Content Include="res\Currency\curr_annul.png" />
+    <Content Include="res\Currency\curr_appr_carto_sextant.png" />
+    <Content Include="res\Currency\curr_armour_scrap.png" />
+    <Content Include="res\Currency\curr_aug.png" />
+    <Content Include="res\Currency\curr_bauble.png" />
+    <Content Include="res\Currency\curr_bestiary_orb.png" />
+    <Content Include="res\Currency\curr_binding.png" />
+    <Content Include="res\Currency\curr_black_whetstone.png" />
+    <Content Include="res\Currency\curr_blessed.png" />
+    <Content Include="res\Currency\curr_bless_chayula.png" />
+    <Content Include="res\Currency\curr_bless_esh.png" />
+    <Content Include="res\Currency\curr_bless_tul.png" />
+    <Content Include="res\Currency\curr_bless_uul.png" />
+    <Content Include="res\Currency\curr_bless_xoph.png" />
+    <Content Include="res\Currency\curr_chance.png" />
+    <Content Include="res\Currency\curr_chaos.png" />
+    <Content Include="res\Currency\curr_chisel.png" />
+    <Content Include="res\Currency\curr_chrom.png" />
+    <Content Include="res\Currency\curr_divine.png" />
+    <Content Include="res\Currency\curr_divine_vessel.png" />
+    <Content Include="res\Currency\curr_engineer.png" />
+    <Content Include="res\Currency\curr_eternal.png" />
+    <Content Include="res\Currency\curr_ex.png" />
+    <Content Include="res\Currency\curr_fuse.png" />
+    <Content Include="res\Currency\curr_gcp.png" />
+    <Content Include="res\Currency\curr_harbinger.png" />
+    <Content Include="res\Currency\curr_horizon.png" />
+    <Content Include="res\Currency\curr_impr_bestiary.png" />
+    <Content Include="res\Currency\curr_jew.png" />
+    <Content Include="res\Currency\curr_journ_carto_sextant.png" />
+    <Content Include="res\Currency\curr_master_carto_sextant.png" />
+    <Content Include="res\Currency\curr_mirror.png" />
+    <Content Include="res\Currency\curr_offering_to_the_goddess.png" />
+    <Content Include="res\Currency\curr_perandus_coin.png" />
+    <Content Include="res\Currency\curr_port.png" />
+    <Content Include="res\Currency\curr_regal.png" />
+    <Content Include="res\Currency\curr_regret.png" />
+    <Content Include="res\Currency\curr_sacrifice_dawn.png" />
+    <Content Include="res\Currency\curr_sacrifice_dusk.png" />
+    <Content Include="res\Currency\curr_sacrifice_midnight.png" />
+    <Content Include="res\Currency\curr_sacrifice_noon.png" />
+    <Content Include="res\Currency\curr_scour.png" />
+    <Content Include="res\Currency\curr_silver.png" />
+    <Content Include="res\Currency\curr_splinter_chayula.png" />
+    <Content Include="res\Currency\curr_splinter_esh.png" />
+    <Content Include="res\Currency\curr_splinter_tul.png" />
+    <Content Include="res\Currency\curr_splinter_uul.png" />
+    <Content Include="res\Currency\curr_splinter_xoph.png" />
+    <Content Include="res\Currency\curr_tra.png" />
+    <Content Include="res\Currency\curr_vaal.png" />
+    <Content Include="res\Currency\curr_wis.png" />
+    <None Include="res\Notification\Button6ColorTypes\button_green_heart.png" />
+    <None Include="res\TopMostMain\Power_Blue.png" />
+    <None Include="res\TopMostMain\Close.png" />
+    <None Include="res\TopMostMain\Minimize.png" />
+    <None Include="res\TopMostMain\Pin.ico" />
+    <None Include="res\Notification\Button6ColorTypes\button_red_delete.png" />
+    <None Include="res\Notification\Button6ColorTypes\button_blue_delete.png" />
+    <None Include="res\Notification\Button6ColorTypes\button_blue_TTT.png" />
+    <None Include="res\Notification\Button6ColorTypes\button_blue_add.png" />
+    <None Include="res\GridForm_RedCloseButton.bmp" />
+    <None Include="res\52x52_Box.bmp" />
     <None Include="res\btnHome.bmp" />
     <None Include="res\NINJA\AgateAmuletUnique.png" />
     <None Include="res\NINJA\UArmour.png" />
