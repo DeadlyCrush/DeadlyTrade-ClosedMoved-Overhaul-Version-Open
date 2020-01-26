@@ -73,6 +73,11 @@
       "Name_ko": "특이한 화석",
       "Name_en": "Aberrant Fossil"
     },
+	{
+      "Id": "Metadata/Items/Currency/CurrencyDelveCraftingChaos",
+      "Name_ko": "도금된 화석",
+      "Name_en": "Gilded Fossil"
+    },
     {
       "Id": "Metadata/Items/Currency/CurrencyDelveCraftingLife",
       "Name_ko": "온전한 화석",

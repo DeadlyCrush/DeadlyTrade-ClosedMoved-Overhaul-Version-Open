@@ -1015,6 +1015,12 @@
 			"DDSFile": "Art/2DItems/Currency/AncientOrb.dds"
 		},
 		{
+			"Id": "CurrencyRerollUnique",
+			"Name_en": "Stacked Deck",
+			"Name_ko": "카드 묶음",
+			"DDSFile": "Art/2DItems/Currency/AncientOrb.dds"
+		},
+		{
 			"Id": "CurrencyRemoveModShard",
 			"Name_en": "Annulment Shard",
 			"Name_ko": "소멸의 파편",
