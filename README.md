@@ -8,6 +8,7 @@ and DeadlyCrush Jumpleasure server, being the main server, will be mirrored to D
 We beg your excuse about having to download version 1.3.9.6 in whole instead of partial update, because of this reason.
 
 ■ New Features.
+
 ▷ New utility function added on launcher.
 
 ○ Function that Backup and resotore personal option of Path Of Exile.
