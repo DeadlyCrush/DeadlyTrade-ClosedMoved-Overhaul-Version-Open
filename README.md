@@ -9,29 +9,44 @@ We beg your excuse about having to download version 1.3.9.6 in whole instead of 
 
 ■ New Features.
 ▷ New utility function added on launcher.
+
 ○ Function that Backup and resotore personal option of Path Of Exile.
+
 ○ Now launcher have 2 utilities. Minimap cache clearner, Shader cache cleaner, Function that Backup and resotore POE options.
 
 ■ Donation Added.
+
 ○ Donation button is added really activly by Korean and the other countries user's request.
 
 ■ Improvement.
 
 ▷ Changed Launcher UI, Added convinience.
+
 ○ Added checkbox that use stath moving by CTRL+MOUSE WHEEL.
 If you have trouble with CTRL+MOUSEWHEEL uncheck this.
+
 ○ Show auto detected POE resolution
+
 ○ Now can't click launcher's start button if already started.
+
 ○ Update contents show Korean or English by your ui language option.
+
 ○ Tray Menu and Icon Changed.
 
+
 ▷ Ninja Function Improved.
+
 ○ Many convinience is added. You can see detail at Discord server or DeadlyTrade Site.
 
+
 ■ Bug Fixed.
+
 ○ Fixed that couldn't calculate selected item's exalted orb to chaos orb if below 0.0 at Ninja Function.
+
 ○ Fixed certain error when 'Refresh' button in Ninja Function.
+
 ○ Fixed that Not showing entire CMD button at CMD function.
+
 
 [ DeadlyTrade 1.3.9.3 Released. ]
 
