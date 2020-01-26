@@ -1,4 +1,12 @@
 #DeadlyTrade : Path Of Exile Addon
+[ 1.3.9.7 DeadlyTrade Hotfix Released. ]
+
+■ Hotfix
+
+○ If font is not installed show install guide message. It use gulim and arial font.
+
+○ Before fix the slow moving at certain PC when using CTRL+MouseWheel for moving stash tab.
+You can check/uncheck that using CTRL+MouseWheel for moving stash tab. Now that checkbox work propery.
 
 [ 1.3.9.6 DeadlyTrade Released. ] : https://github.com/DeadlyCrush/DeadlyTrade/releases/download/1.3.9.6/DeadlyTrade_1.3.9.6.zip
 
