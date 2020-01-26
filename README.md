@@ -1,5 +1,6 @@
 #DeadlyTrade : Path Of Exile Addon
 [ 1.3.9.7 DeadlyTrade Hotfix Released. ]
+https://github.com/DeadlyCrush/DeadlyTrade/releases
 
 ■ Hotfix
 
