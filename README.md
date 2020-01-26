@@ -1,6 +1,6 @@
 #DeadlyTrade : Path Of Exile Addon
 
-1.3.9.6 DeadlyTrade Released.
+[ 1.3.9.6 DeadlyTrade Released. ] : https://github.com/DeadlyCrush/DeadlyTrade/releases/download/1.3.9.6/DeadlyTrade_1.3.9.6.zip
 
 ■ Server Integration.
 Now Github will only be used for announcements, 
