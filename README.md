@@ -1,3 +1,4 @@
-#DeadlyTrade : Path Of Exile Addon
-#DeadlyTrade Overhaul Version : Redirect Repository.
-https://github.com/DeadlyCrush/DeadlyTradeOverhaul
+#DeadlyTrade
+Path Of Exile Addon
+#DeadlyTrade Overhaul Version
+Repository moved. : https://github.com/DeadlyCrush/DeadlyTradeOverhaul
