@@ -9,6 +9,10 @@ Repository moved. : https://github.com/DeadlyCrush/DeadlyTradeOverhaul
 ##Download (Real-Time)
 
 2020.02.16 ~ Now.
+
 [![Github All Releases](https://img.shields.io/github/downloads/DeadlyCrush/DeadlyTrade/total.svg)]()
+
 DeadlyTrade 1.0.0.0 Version. ~ 2020.02.15
+
 [![Github All Releases](https://img.shields.io/github/downloads/DeadlyCrush/DeadlyTrade-Closed-Overhaul-Version-Open/total.svg)]()
+
