@@ -3,11 +3,11 @@ Path Of Exile Addon
 # DeadlyTrade Overhaul Version
 Repository moved. : https://github.com/DeadlyCrush/DeadlyTradeOverhaul
 # Status
-##Build
+## Build
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-##Download (Real-Time)
+## Download (Real-Time)
 
 2020.02.16 ~ Now.
 
